@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1cECMsPJd4AzQzAwHU8AZsJ1A2aU+gG7aGbXAti0dlN9zQRDCgh+/dVVHSgRFvptsBcRKJaITL7wjfb4ZWqXgA==",
+  "success": true,
+  "projectFilePath": "D:\\cspvagame2\\Console game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robin\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
